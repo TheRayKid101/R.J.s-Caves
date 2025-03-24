@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/12676257/137376396-a758fd67-5b6a-4a95-8a51-3aa7a22dc540.png"  width="128" height="128" />
+<img src="https://avatars.githubusercontent.com/u/20050340?v=4"  width="128" height="128" />
 
-[![CurseForge downloads](http://cf.way2muchnoise.eu/full_264231_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+[![CurseForge downloads](https://media.forgecdn.net/avatars/thumbnails/346/650/64/64/637495610940825182.jpeg)](https://www.curseforge.com/minecraft/mc-mods/prehistoric-dinosaur-biomes)
 
 # R.J's Caves
 
@@ -15,12 +15,12 @@ Make sure to carefully read and follow the issue template. Issues that are dupli
 ### **Please post your suggestions over [here](https://github.com/TheRayKid101/R.J.s-Caves/issues)**
 
 ## Community
-[![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/WfumvTg)
+[![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.com/invite/HaqEbEcqXk)
 
-We have an official R.J's Caves [discord community](https://discord.gg/WfumvTg). By joining you can:
+We have an official R.J's Caves [discord community](https://discord.com/invite/HaqEbEcqXk). By joining you can:
 - Be notified whenever a new version of the mod get's released
 - Find servers that have R.J's Caves installed
 - Get help if you have any issues
 - ... and much more!
 # FAQ
-Please take a look at the wiki pages on [fandom](https://ice-and-fire-mod.fandom.com/wiki/Frequently_asked_questions) and [github](https://github.com/Alex-the-666/Ice_and_Fire/wiki)
+Please take a look at the wiki pages on [fandom](https://github.com/TheRayKid101/R.J.s-Caves/issues) and [github](https://github.com/TheRayKid101/R.J.s-Caves/wiki)
